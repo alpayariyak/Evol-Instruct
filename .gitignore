@@ -1,0 +1,4 @@
+original/*
+.env
+region-configs/*
+!region-configs/template.yaml

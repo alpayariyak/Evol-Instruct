@@ -1,0 +1,4 @@
+gpt-4: # Name of deployed gpt-4 endpoint at resource
+gpt-35-turbo: # Name of deployed gpt-35 endpoint at resource
+OPENAI_API_KEY: # Deployed Resource API key
+RESOURCE: # Deployed Resource Name
